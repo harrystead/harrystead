@@ -1,3 +1,3 @@
 ### Hi there 👋
 
-Full-stack Developer with experience in HTML, CSS, Node JS and React JS. 
+Full-stack Developer. (JavaScript - React, Node, Aurelia, Jquery; C# - .Net)
